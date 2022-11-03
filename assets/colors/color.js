@@ -1,4 +1,4 @@
-const colors = {
+const COLORS = {
   background: '#F9F9FB',
   textDark: '#313234',
   primary: '#F5CA48',
@@ -9,4 +9,4 @@ const colors = {
   black: '#000',
 };
 
-export default colors;
+export default COLORS;
