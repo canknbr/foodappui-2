@@ -18,7 +18,7 @@ export default function App() {
           }}
         />
         <Stack.Screen
-          name="Details"
+          name="DetailsScreen"
           component={DetailsScreen}
           options={{
             headerShown: false,
